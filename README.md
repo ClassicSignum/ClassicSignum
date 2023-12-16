@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClassicSignum
+- 👋 Hi, I’m @Nafiz
 - 👀 I’m interested in PHP,laravel,Codeigniter,JS,React,Vuejs,Nuxt
 - 🌱 I’m currently learning 🤔🤔😉😉
 - 💞️ I’m looking to collaborate on ...
